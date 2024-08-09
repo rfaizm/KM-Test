@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Test App</string>
+    <string name="name">Name</string>
+    <string name="polindrome">Polindrome</string>
+    <string name="check">Check</string>
+    <string name="next">Next</string>
+    <string name="welcome">Welcome</string>
+    <string name="layout_username_textview">Selected User Name</string>
+    <string name="choose_username">Choose a User</string>
+    <string name="title_second_scrren">Second Screen</string>
+    <string name="title_third_scrren">Third Screen</string>
+    <string name="username">User Name</string>
+    <string name="email">example@gmail.com</string>
+    <string name="retry">Retry</string>
+
+
+</resources>
